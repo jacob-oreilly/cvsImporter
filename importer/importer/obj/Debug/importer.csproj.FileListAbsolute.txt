@@ -1,0 +1,7 @@
+C:\Users\DOTSC_oreilly\source\repos\importer\importer\bin\Debug\importer.exe.config
+C:\Users\DOTSC_oreilly\source\repos\importer\importer\bin\Debug\importer.exe
+C:\Users\DOTSC_oreilly\source\repos\importer\importer\bin\Debug\importer.pdb
+C:\Users\DOTSC_oreilly\source\repos\importer\importer\obj\Debug\importer.csprojAssemblyReference.cache
+C:\Users\DOTSC_oreilly\source\repos\importer\importer\obj\Debug\importer.csproj.CoreCompileInputs.cache
+C:\Users\DOTSC_oreilly\source\repos\importer\importer\obj\Debug\importer.exe
+C:\Users\DOTSC_oreilly\source\repos\importer\importer\obj\Debug\importer.pdb
